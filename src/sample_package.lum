@@ -1,0 +1,12 @@
+// sample_package - a minimal photon test package.
+//
+// It exists only to check that the package manager can install and build
+// against a third-party repository. It has no real functionality and does not
+// depend on anything.
+fn hello() string {
+	back "hello from sample_package"
+}
+
+fn answer() i32 {
+	back 42
+}

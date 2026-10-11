@@ -1,0 +1,3 @@
+# Keep source bytes stable so the .lumc source hash stays valid.
+* text=auto eol=lf
+*.lumc binary

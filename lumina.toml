@@ -1,0 +1,11 @@
+[package]
+name = "sample_package"
+version = "0.1.0"
+description = "A minimal photon test package."
+license = "Apache-2.0"
+authors = ["LuminaLang"]
+
+[lib]
+modules = ["sample_package"]
+
+[dependencies]
